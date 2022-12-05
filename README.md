@@ -1,2 +1,3 @@
-# Sistema-de-estoque-de-padaria
-Sistema de estoque de padaria feito com a linguagem C.
+# Sistema de gestao de estoque de padaria
+
+ Sistema de gestão utilizando a Linguagem C.
